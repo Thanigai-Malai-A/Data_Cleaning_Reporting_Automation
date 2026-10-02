@@ -1,0 +1,2 @@
+Original_Rows,Original_Columns,Missing_Cells_Before,Duplicate_Rows_Removed,Duplicates_After_Standardization_Removed,Invalid_Rows_Removed,Rows_Removed_Total,Final_Rows,Final_Columns,Missing_Cells_After,Text_Values_Standardized,Revenue_Values_Corrected
+290,8,41,10,0,9,38,252,8,0,127,22

@@ -1,0 +1,21 @@
+DATA CLEANING & REPORTING AUTOMATION - AUTOMATED REPORT
+Dataset: synthetic/illustrative internship dataset
+
+Original rows: 290
+Original columns: 8
+Duplicate rows removed: 10
+Invalid/removed rows: 9
+Final rows: 252
+Missing cells before: 41
+Missing cells after: 0
+Text values standardized: 127
+Revenue values recalculated/corrected: 22
+
+Cleaning rules:
+- Standardize whitespace and text aliases.
+- Parse mixed dates and remove invalid dates.
+- Convert numeric fields and remove non-positive quantity/price rows.
+- Impute missing quantity and unit price using product medians.
+- Fill missing region/category values with documented fallbacks.
+- Recalculate revenue as Quantity * Unit_Price.
+- Remove duplicates.

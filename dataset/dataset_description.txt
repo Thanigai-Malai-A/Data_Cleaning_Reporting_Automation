@@ -1,0 +1,5 @@
+Dataset: raw_data.csv
+Type: Synthetic/illustrative internship dataset created for demonstrating automated data cleaning and reporting.
+Period: January 2025 to August 2026.
+Records: Contains deliberately introduced missing values, duplicate rows, inconsistent text/category/region values, mixed date formats, numeric formatting issues, invalid quantities/prices, invalid dates, and inconsistent revenue values.
+Important: The dataset does not represent real company data or real sales performance.

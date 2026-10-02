@@ -1,0 +1,253 @@
+Record_ID,Date,Product,Category,Region,Quantity,Unit_Price,Revenue
+1001,2025-01-12,PLC,Control Systems,Unknown,12,45733,548796
+1003,2025-01-21,Robotic Arm,Robotics,Hyderabad,13,134587,1749631
+1004,2025-01-10,VFD,Industrial Drives,Pune,9,30357,273213
+1005,2025-01-22,Robotic Arm,Robotics,Hyderabad,7,144645,1012515
+1006,2025-01-15,Industrial Sensor,Sensors,Bengaluru,2,11425,22850
+1007,2025-01-17,VFD,Industrial Drives,Coimbatore,5,29336,146680
+1009,2025-01-06,Robotic Arm,Robotics,Hyderabad,13,145388,1890044
+1011,2025-01-26,VFD,Industrial Drives,Hyderabad,7,26721,187047
+1013,2025-01-13,Industrial Sensor,Sensors,Chennai,12,11874,142488
+1014,2025-01-12,HMI Panel,Control Systems,Hyderabad,16,38453,615248
+1015,2025-02-09,HMI Panel,Control Systems,Unknown,2,38450,76900
+1016,2025-02-11,Industrial Sensor,Sensors,Coimbatore,15,12043,180645
+1017,2025-02-04,Servo Motor,Motion Control,Hyderabad,11,64191,706101
+1018,2025-02-21,Robotic Arm,Robotics,Chennai,14,151709,2123926
+1019,2025-02-21,Industrial Sensor,Sensors,Unknown,5,12512,62560
+1020,2025-02-04,HMI Panel,Control Systems,Pune,1,32844,32844
+1021,2025-02-13,Industrial Sensor,Sensors,Hyderabad,12,12804,153648
+1022,2025-02-17,PLC,Control Systems,Hyderabad,10,42915,429150
+1023,2025-02-08,PLC,Control Systems,Pune,14,38085,533190
+1024,2025-02-06,Industrial Sensor,Sensors,Pune,17,12373,210341
+1025,2025-02-07,VFD,Industrial Drives,Coimbatore,1,25103,25103
+1028,2025-02-22,Industrial Sensor,Sensors,Pune,8,11709,93672
+1029,2025-03-03,Industrial Sensor,Sensors,Chennai,2,13236,26472
+1030,2025-03-05,Robotic Arm,Robotics,Pune,13,146483,1904279
+1031,2025-03-19,VFD,Industrial Drives,Chennai,9,27449,247041
+1032,2025-03-08,PLC,Control Systems,Bengaluru,5,43624,218120
+1033,2025-03-03,HMI Panel,Control Systems,Bengaluru,17,32872,558824
+1034,2025-03-24,Industrial Sensor,Sensors,Coimbatore,7,13174,92218
+1035,2025-03-26,Industrial Sensor,Sensors,Bengaluru,13,13392,174096
+1036,2025-03-12,Servo Motor,Motion Control,Hyderabad,14,65273,913822
+1037,2025-03-24,PLC,Control Systems,Chennai,8,42011,336088
+1038,2025-03-08,Robotic Arm,Robotics,Bengaluru,13,148977,1936701
+1039,2025-03-23,HMI Panel,Control Systems,Chennai,8,37874,302992
+1040,2025-03-12,Industrial Sensor,Sensors,Hyderabad,12,12975,155700
+1041,2025-03-17,PLC,Control Systems,Pune,2,38580,77160
+1042,2025-03-02,Robotic Arm,Robotics,Pune,14,146258,2047612
+1043,2025-04-04,Servo Motor,Motion Control,Bengaluru,12,62747,752964
+1044,2025-04-05,Servo Motor,Motion Control,Pune,14,75040,1050560
+1045,2025-04-10,VFD,Industrial Drives,Pune,8,28325,226600
+1046,2025-04-25,Servo Motor,Motion Control,Chennai,3,68415,205245
+1048,2025-04-25,Robotic Arm,Robotics,Pune,8,148738,1189904
+1049,2025-04-07,HMI Panel,Control Systems,Pune,14,34540,483560
+1050,2025-04-12,HMI Panel,Control Systems,Pune,15,32119,481785
+1051,2025-04-24,Industrial Sensor,Sensors,Coimbatore,1,11636,11636
+1052,2025-04-03,Servo Motor,Motion Control,Pune,6,71257,427542
+1053,2025-04-18,PLC,Control Systems,Bengaluru,5,44517,222585
+1055,2025-04-01,VFD,Industrial Drives,Bengaluru,5,28107,140535
+1056,2025-04-22,HMI Panel,Control Systems,Bengaluru,6,38262,229572
+1057,2025-05-25,VFD,Industrial Drives,Bengaluru,4,26510,106040
+1058,2025-05-07,HMI Panel,Control Systems,Pune,16,39261,628176
+1059,2025-05-02,Servo Motor,Motion Control,Chennai,10,67709,677090
+1060,2025-05-24,VFD,Industrial Drives,Coimbatore,3,29279,87837
+1061,2025-05-24,VFD,Industrial Drives,Coimbatore,4,27889,111556
+1062,2025-05-21,Industrial Sensor,Sensors,Bengaluru,1,13070,13070
+1063,2025-05-03,Industrial Sensor,Sensors,Bengaluru,16,13304,212864
+1064,2025-05-25,Industrial Sensor,Sensors,Unknown,1,11913,11913
+1065,2025-05-22,PLC,Control Systems,Chennai,2,39216,78432
+1066,2025-05-16,Robotic Arm,Robotics,Chennai,7,158399,1108793
+1067,2025-05-09,PLC,Control Systems,Chennai,5,44983,224915
+1068,2025-05-14,Servo Motor,Motion Control,Coimbatore,9,63353,570177
+1069,2025-05-06,VFD,Industrial Drives,Chennai,3,25548,76644
+1070,2025-05-04,PLC,Control Systems,Hyderabad,17,42478,722126
+1071,2025-06-16,VFD,Industrial Drives,Hyderabad,14,25959,363426
+1073,2025-06-04,Robotic Arm,Robotics,Chennai,8,160089,1280712
+1074,2025-06-08,PLC,Control Systems,Bengaluru,17,42315,719355
+1075,2025-06-25,HMI Panel,Control Systems,Hyderabad,6,34187,205122
+1076,2025-06-01,VFD,Industrial Drives,Coimbatore,9,28109,252981
+1077,2025-06-03,PLC,Control Systems,Hyderabad,15,39097,586455
+1078,2025-06-26,Robotic Arm,Robotics,Pune,1,149514,149514
+1079,2025-06-21,Servo Motor,Motion Control,Coimbatore,13,68192,886496
+1080,2025-06-01,HMI Panel,Control Systems,Hyderabad,15,32802,492030
+1082,2025-06-16,Industrial Sensor,Sensors,Pune,14,13636,190904
+1083,2025-06-11,Robotic Arm,Robotics,Hyderabad,5,142436,712180
+1084,2025-06-17,VFD,Industrial Drives,Pune,2,29998,59996
+1085,2025-07-07,Servo Motor,Motion Control,Pune,10,64740,647400
+1086,2025-07-22,VFD,Industrial Drives,Hyderabad,15,25387,380805
+1087,2025-07-16,VFD,Industrial Drives,Chennai,9,25634,230706
+1088,2025-07-09,Servo Motor,Motion Control,Coimbatore,6,63352,380112
+1089,2025-07-05,VFD,Industrial Drives,Coimbatore,11,26473,291203
+1090,2025-07-04,HMI Panel,Control Systems,Chennai,8,32115,256920
+1091,2025-07-05,Robotic Arm,Robotics,Chennai,4,132203,528812
+1094,2025-07-02,Robotic Arm,Robotics,Coimbatore,10,136290,1362900
+1095,2025-07-07,VFD,Industrial Drives,Bengaluru,4,28206,112824
+1097,2025-07-03,VFD,Industrial Drives,Pune,16,29792,476672
+1098,2025-07-25,PLC,Control Systems,Chennai,7,38716,271012
+1099,2025-08-24,VFD,Industrial Drives,Coimbatore,14,30676,429464
+1100,2025-08-21,Servo Motor,Motion Control,Coimbatore,10,70812,708120
+1101,2025-08-04,HMI Panel,Control Systems,Hyderabad,13,36137,469781
+1102,2025-08-23,Servo Motor,Motion Control,Pune,17,68123,1158091
+1103,2025-08-17,Robotic Arm,Robotics,Bengaluru,12,139000,1668000
+1104,2025-08-13,PLC,Control Systems,Chennai,8,41652,333216
+1105,2025-08-10,HMI Panel,Control Systems,Bengaluru,6,34812,208872
+1106,2025-08-10,Robotic Arm,Robotics,Bengaluru,8,152375,1219000
+1107,2025-08-25,Servo Motor,Motion Control,Bengaluru,14,74909,1048726
+1108,2025-08-09,VFD,Industrial Drives,Pune,14,27989,391846
+1110,2025-08-17,HMI Panel,Control Systems,Pune,14,34200,478800
+1111,2025-08-06,Servo Motor,Motion Control,Hyderabad,1,71594,71594
+1112,2025-08-04,HMI Panel,Control Systems,Coimbatore,16,36748,587968
+1113,2025-09-19,HMI Panel,Control Systems,Chennai,11,32610,358710
+1114,2025-09-04,HMI Panel,Control Systems,Coimbatore,13,39439,512707
+1115,2025-09-16,Servo Motor,Motion Control,Coimbatore,7,72908,510356
+1116,2025-09-25,VFD,Industrial Drives,Hyderabad,16,26283,420528
+1118,2025-09-15,Servo Motor,Motion Control,Chennai,3,69764,209292
+1119,2025-09-14,Industrial Sensor,Sensors,Pune,12,13351,160212
+1120,2025-09-13,VFD,Industrial Drives,Hyderabad,9,28378,255402
+1121,2025-09-04,PLC,Control Systems,Coimbatore,15,38882,583230
+1122,2025-09-18,Robotic Arm,Robotics,Chennai,9,143854,1294686
+1123,2025-09-18,VFD,Industrial Drives,Hyderabad,4,26769,107076
+1124,2025-09-20,Robotic Arm,Robotics,Coimbatore,14,139130,1947820
+1125,2025-09-09,Robotic Arm,Robotics,Bengaluru,10,135528,1355280
+1126,2025-09-25,VFD,Industrial Drives,Chennai,2,27399,54798
+1128,2025-10-21,VFD,Industrial Drives,Coimbatore,7,27650,193550
+1129,2025-10-26,PLC,Control Systems,Bengaluru,12,44432,533184
+1130,2025-10-04,VFD,Industrial Drives,Coimbatore,8,29896,239168
+1131,2025-10-04,VFD,Industrial Drives,Hyderabad,3,28309,84927
+1132,2025-10-01,PLC,Control Systems,Hyderabad,10,41998,419980
+1133,2025-10-08,Robotic Arm,Robotics,Coimbatore,8,145128,1161024
+1134,2025-10-08,Servo Motor,Motion Control,Pune,1,74940,74940
+1135,2025-10-03,Robotic Arm,Robotics,Hyderabad,10,162305,1623050
+1136,2025-10-08,PLC,Control Systems,Coimbatore,12,45533,546396
+1137,2025-10-26,PLC,Control Systems,Chennai,12,43951,527412
+1138,2025-10-03,PLC,Control Systems,Hyderabad,11,46089,506979
+1139,2025-10-07,VFD,Industrial Drives,Chennai,5,25615,128075
+1140,2025-10-06,VFD,Industrial Drives,Hyderabad,14,30259,423626
+1141,2025-11-01,Servo Motor,Motion Control,Hyderabad,16,61281,980496
+1142,2025-11-16,PLC,Control Systems,Unknown,14,45206,632884
+1143,2025-11-23,VFD,Industrial Drives,Bengaluru,5,25096,125480
+1144,2025-11-25,Robotic Arm,Robotics,Coimbatore,17,155130,2637210
+1145,2025-11-22,VFD,Industrial Drives,Hyderabad,14,24993,349902
+1146,2025-11-04,Industrial Sensor,Sensors,Bengaluru,2,12637,25274
+1147,2025-11-17,HMI Panel,Control Systems,Hyderabad,10,38597,385970
+1148,2025-11-20,Industrial Sensor,Sensors,Chennai,14,11781,164934
+1149,2025-11-19,PLC,Control Systems,Bengaluru,2,46857,93714
+1150,2025-11-02,Robotic Arm,Robotics,Hyderabad,9,150160,1351440
+1152,2025-11-03,Industrial Sensor,Sensors,Chennai,7,11755,82285
+1153,2025-11-12,Industrial Sensor,Sensors,Coimbatore,11,13406,147466
+1154,2025-11-15,Servo Motor,Motion Control,Hyderabad,15,63371,950565
+1155,2025-12-08,Servo Motor,Motion Control,Coimbatore,10,69847,698470
+1156,2025-12-17,HMI Panel,Control Systems,Hyderabad,5,39296,196480
+1157,2025-12-14,PLC,Control Systems,Chennai,8,41533,332264
+1158,2025-12-04,VFD,Industrial Drives,Pune,3,25561,76683
+1160,2025-12-17,Robotic Arm,Robotics,Hyderabad,7,143637,1005459
+1161,2025-12-06,PLC,Control Systems,Pune,15,43236,648540
+1162,2025-12-01,HMI Panel,Control Systems,Bengaluru,16,35218,563488
+1163,2025-12-06,Industrial Sensor,Sensors,Pune,3,12824,38472
+1165,2025-12-09,HMI Panel,Control Systems,Hyderabad,11,38100,419100
+1166,2025-12-12,Industrial Sensor,Sensors,Pune,4,12972,51888
+1167,2025-12-14,HMI Panel,Control Systems,Bengaluru,17,37704,640968
+1168,2025-12-24,HMI Panel,Control Systems,Coimbatore,3,35883,107649
+1169,2026-01-21,Robotic Arm,Robotics,Pune,5,140531,702655
+1170,2026-01-13,HMI Panel,Control Systems,Coimbatore,7,32855,229985
+1171,2026-01-22,PLC,Control Systems,Chennai,15,38313,574695
+1172,2026-01-09,PLC,Control Systems,Bengaluru,10,39398,393980
+1173,2026-01-20,Robotic Arm,Robotics,Bengaluru,2,130968,261936
+1174,2026-01-23,Industrial Sensor,Sensors,Coimbatore,13,12274,159562
+1175,2026-01-16,Robotic Arm,Robotics,Chennai,5,134318,671590
+1176,2026-01-25,HMI Panel,Control Systems,Bengaluru,9,39725,357525
+1177,2026-01-09,Industrial Sensor,Sensors,Hyderabad,8,13141,105128
+1178,2026-01-11,PLC,Control Systems,Hyderabad,13,43722,568386
+1179,2026-01-06,Industrial Sensor,Sensors,Chennai,12,12694,152328
+1181,2026-01-15,VFD,Industrial Drives,Coimbatore,17,29826,507042
+1182,2026-01-04,Robotic Arm,Robotics,Coimbatore,12,144799,1737588
+1184,2026-02-13,PLC,Control Systems,Pune,9,39192,352728
+1185,2026-02-24,Servo Motor,Motion Control,Chennai,5,61868,309340
+1186,2026-02-08,HMI Panel,Control Systems,Bengaluru,4,35778,143112
+1187,2026-02-13,VFD,Industrial Drives,Pune,13,25259,328367
+1188,2026-02-22,Servo Motor,Motion Control,Bengaluru,15,70738,1061070
+1189,2026-02-18,HMI Panel,Control Systems,Hyderabad,7,37908,265356
+1190,2026-02-10,HMI Panel,Control Systems,Chennai,13,36164,470132
+1191,2026-02-22,VFD,Industrial Drives,Bengaluru,16,27670,442720
+1192,2026-02-23,HMI Panel,Control Systems,Hyderabad,12,35892,430704
+1193,2026-02-16,Industrial Sensor,Sensors,Coimbatore,6,13588,81528
+1194,2026-02-13,Industrial Sensor,Sensors,Bengaluru,10,12711,127110
+1195,2026-02-11,HMI Panel,Control Systems,Chennai,1,39114,39114
+1196,2026-02-05,HMI Panel,Control Systems,Hyderabad,7,34596,242172
+1197,2026-03-01,Servo Motor,Motion Control,Chennai,5,75075,375375
+1198,2026-03-08,Robotic Arm,Robotics,Pune,8,149591,1196728
+1199,2026-03-08,HMI Panel,Control Systems,Chennai,8,37441,299528
+1200,2026-03-26,HMI Panel,Control Systems,Hyderabad,13,36795,478335
+1201,2026-03-20,VFD,Industrial Drives,Pune,17,30215,513655
+1202,2026-03-26,HMI Panel,Control Systems,Hyderabad,5,38057,190285
+1203,2026-03-03,Industrial Sensor,Sensors,Coimbatore,2,13264,26528
+1204,2026-03-15,Robotic Arm,Robotics,Pune,12,151366,1816392
+1206,2026-03-20,Robotic Arm,Robotics,Hyderabad,17,141553,2406401
+1208,2026-03-26,VFD,Industrial Drives,Pune,15,27563,413445
+1210,2026-03-15,HMI Panel,Control Systems,Chennai,4,38214,152856
+1211,2026-04-22,Servo Motor,Motion Control,Coimbatore,8,61753,494024
+1212,2026-04-02,PLC,Control Systems,Bengaluru,17,38810,659770
+1213,2026-04-19,VFD,Industrial Drives,Hyderabad,13,29431,382603
+1214,2026-04-20,PLC,Control Systems,Coimbatore,13,45200,587600
+1215,2026-04-07,Industrial Sensor,Sensors,Chennai,16,12960,207360
+1216,2026-04-01,Servo Motor,Motion Control,Coimbatore,8,68899,551192
+1217,2026-04-01,Servo Motor,Motion Control,Hyderabad,10,67204,672040
+1218,2026-04-18,Robotic Arm,Robotics,Coimbatore,11,138081,1518891
+1219,2026-04-10,Industrial Sensor,Sensors,Coimbatore,9,13597,122373
+1220,2026-04-16,VFD,Industrial Drives,Bengaluru,13,27151,352963
+1221,2026-04-24,PLC,Control Systems,Bengaluru,10,39533,395330
+1222,2026-04-09,Robotic Arm,Robotics,Chennai,12,153393,1840716
+1224,2026-04-04,Robotic Arm,Robotics,Pune,10,148838,1488380
+1225,2026-05-19,Servo Motor,Motion Control,Coimbatore,15,70104,1051560
+1226,2026-05-24,PLC,Control Systems,Bengaluru,9,42392,381528
+1227,2026-05-10,Industrial Sensor,Sensors,Chennai,2,11435,22870
+1228,2026-05-01,Industrial Sensor,Sensors,Bengaluru,10,12497,124970
+1230,2026-05-20,VFD,Industrial Drives,Coimbatore,17,28022,476374
+1231,2026-05-24,VFD,Industrial Drives,Bengaluru,6,26172,157032
+1232,2026-05-24,HMI Panel,Control Systems,Bengaluru,16,36086,577376
+1233,2026-05-16,VFD,Industrial Drives,Hyderabad,4,28703,114812
+1234,2026-05-07,PLC,Control Systems,Bengaluru,15,40780,611700
+1235,2026-05-23,Servo Motor,Motion Control,Chennai,6,65437,392622
+1236,2026-05-21,PLC,Control Systems,Pune,5,45043,225215
+1237,2026-05-13,HMI Panel,Control Systems,Pune,15,39719,595785
+1238,2026-05-22,HMI Panel,Control Systems,Hyderabad,5,38999,194995
+1239,2026-06-05,Servo Motor,Motion Control,Hyderabad,8,69610,556880
+1240,2026-06-17,Servo Motor,Motion Control,Chennai,8,75492,603936
+1241,2026-06-12,Robotic Arm,Robotics,Pune,16,131643,2106288
+1242,2026-06-03,VFD,Industrial Drives,Coimbatore,13,24999,324987
+1244,2026-06-09,Servo Motor,Motion Control,Pune,14,61962,867468
+1245,2026-06-10,VFD,Industrial Drives,Chennai,11,25116,276276
+1246,2026-06-06,VFD,Industrial Drives,Hyderabad,8,26578,212624
+1247,2026-06-11,Industrial Sensor,Sensors,Bengaluru,4,11255,45020
+1248,2026-06-23,Servo Motor,Motion Control,Chennai,8,61218,489744
+1249,2026-06-13,PLC,Control Systems,Pune,5,40878,204390
+1250,2026-06-21,Industrial Sensor,Sensors,Pune,10,13563,135630
+1251,2026-06-09,HMI Panel,Control Systems,Bengaluru,4,33844,135376
+1252,2026-06-18,VFD,Industrial Drives,Pune,15,26131,391965
+1253,2026-07-25,Robotic Arm,Robotics,Bengaluru,5,132049,660245
+1254,2026-07-19,Industrial Sensor,Sensors,Pune,15,11664,174960
+1255,2026-07-04,HMI Panel,Control Systems,Chennai,6,39126,234756
+1256,2026-07-05,PLC,Control Systems,Chennai,16,38089,609424
+1257,2026-07-17,PLC,Control Systems,Chennai,13,40033,520429
+1258,2026-07-16,PLC,Control Systems,Pune,4,45649,182596
+1259,2026-07-23,Industrial Sensor,Sensors,Chennai,5,12953,64765
+1260,2026-07-21,Industrial Sensor,Sensors,Chennai,16,13603,217648
+1261,2026-07-24,Servo Motor,Motion Control,Bengaluru,5,67999,339995
+1262,2026-07-26,VFD,Industrial Drives,Hyderabad,16,26937,430992
+1263,2026-07-09,Robotic Arm,Robotics,Coimbatore,3,155995,467985
+1264,2026-07-06,PLC,Control Systems,Hyderabad,6,41626,249756
+1266,2026-07-01,Robotic Arm,Robotics,Bengaluru,7,135779,950453
+1267,2026-08-19,HMI Panel,Control Systems,Hyderabad,15,37718,565770
+1268,2026-08-24,Robotic Arm,Robotics,Bengaluru,3,149443,448329
+1269,2026-08-04,Servo Motor,Motion Control,Chennai,14,71569,1001966
+1270,2026-08-14,PLC,Control Systems,Chennai,14,46964,657496
+1271,2026-08-01,Servo Motor,Motion Control,Chennai,16,76057,1216912
+1272,2026-08-04,HMI Panel,Control Systems,Pune,7,38958,272706
+1273,2026-08-14,PLC,Control Systems,Coimbatore,8,43545,348360
+1274,2026-08-02,Servo Motor,Motion Control,Bengaluru,13,70095,911235
+1275,2026-08-18,PLC,Control Systems,Bengaluru,6,45527,273162
+1276,2026-08-16,Servo Motor,Motion Control,Chennai,1,64660,64660
+1277,2026-08-07,VFD,Industrial Drives,Coimbatore,15,28445,426675
+1278,2026-08-11,Servo Motor,Motion Control,Pune,9,71337,642033
+1279,2026-08-15,HMI Panel,Control Systems,Hyderabad,13,37873,492349
+1280,2026-08-11,Robotic Arm,Robotics,Coimbatore,3,146915,440745

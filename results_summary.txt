@@ -1,0 +1,24 @@
+Data Cleaning & Reporting Automation
+===================================
+Dataset type: Synthetic/illustrative
+Original rows: 290
+Original columns: 8
+Duplicate rows removed: 10
+Invalid rows removed: 9
+Total rows removed: 38
+Final cleaned rows: 252
+Missing cells before: 41
+Missing cells after: 0
+Text values standardized: 127
+Revenue values corrected: 22
+Reporting periods: 20 (2025-01 to 2026-08)
+
+Generated outputs:
+- cleaned_data.csv
+- cleaning_summary.csv
+- summary_statistics.csv
+- category_summary.csv
+- monthly_summary.csv
+- automated_report.txt
+- charts/*.png
+- Data_Cleaning_Reporting_Automation_Report.pdf
